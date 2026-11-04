@@ -1,2 +1,4 @@
 # PROJECT-PRACTICE
-# EVERYDAY YOU SHOULD SOLVE DSA QUESTIOS
+
+Author - Vikash Vishwkarma
+
